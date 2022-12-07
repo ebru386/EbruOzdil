@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ebru Özdil 🤗 </h1>
+<p> <img align="right" src="https://user-images.githubusercontent.com/70747048/206271258-c7d4691e-768d-4a61-82c3-c7017a20da14.gif" width="480" height="280" /> </p>
+
 <h3 align="left">🤙Connect with me:</h3>
 <p align="left">
-
 
 
 <a href="https://linkedin.com/in/ebru-özdil-67090a205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebru-özdil-67090a205" height="30" width="40" /></a>
 <a href="https://medium.com/@ebruozdil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ebruozdil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ebruozdil99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ebruozdil99" height="30" width="40" /></a>
-<p> <img align="right" src="https://user-images.githubusercontent.com/70747048/206271258-c7d4691e-768d-4a61-82c3-c7017a20da14.gif" width="480" height="280" /> </p>
+
 
 </p>
 
-<p align="left"> - 🔭 I'm currently trying to be the best at Full Stack Developer 👩‍💻 
+<p align="left"> - 🔭 I'm currently trying to be the Developer 👩‍💻 
 <p align="left"> - 🌱 I’m currently learning Java, Springboot
 <p align="left"> - 📫 How to reach me **ebruozdil99@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
